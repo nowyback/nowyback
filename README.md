@@ -18,14 +18,19 @@ i am nowy, currently working on VELOXIS Hotlap<br>Struggeling with life<br>Solo 
 ##  You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nowyback) 
 
-## My Projects
+# My Projects
+
+## October Drop
+
 VELOXIS HOTLAP - Compete against other players internationally in multiple classes
-  
-VELOXIS TELEMTRY - Work In Progress
 
 todoodle - A simple to use todo app with open api-endpoints
 
 directree - A small tool to create file trees with no effort
 
-FlowCord - Work In Progress
+## Planned
+
+VELOXIS Telemetry
+
+FlowCord
 
